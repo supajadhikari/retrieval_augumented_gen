@@ -9,3 +9,11 @@ command using : uv add <package name>
 To run streamlit using uv : 
 1. uv run streamlit run app.py
 
+
+On env part we will use: 
+openai_api_key, and
+
+Langsmith api keys: 
+
+LANGSMITH_API_KEY, LANGSMITH_TRACING and LANGSMITH_PROJECT
+data will be shown on langsmith web.
